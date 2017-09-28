@@ -23,6 +23,7 @@ import javax.swing.*;
 import static org.sikuli.api.API.*;
 
 public class Main{
+    //2
     public static void main(String[] args) throws MalformedURLException {
         final String[] ScriptNum = new String[1];
         final String[] Switch = new String[1];
